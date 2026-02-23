@@ -1,0 +1,5 @@
+{
+  "name": "Beating Heart Animation",
+  "description": "A mathematical heart equation rendered with particle physics and a heartbeat animation on HTML5 Canvas.",
+  "requestFramePermissions": []
+}
